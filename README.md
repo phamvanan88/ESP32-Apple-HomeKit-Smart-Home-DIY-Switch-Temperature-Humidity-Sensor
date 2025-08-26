@@ -21,6 +21,7 @@ You don’t need to be an expert in coding or electronics. I explain everything 
 
 **2. Schematics** <br>
 <img src="https://github.com/user-attachments/assets/8b9ebcf7-0ed7-4ccd-b72c-e762525205af" width="70%"> <br>
+<img src="https://github.com/user-attachments/assets/6e1df6da-3073-4fa4-82e7-8ed8bbaf0151" width="70%"> <br>
 📦 Hardware Used:<br>
 - ESP32 board (e.g. ESP32-S3, ESP32DEV, or similar)<br>
 - DHT22 or BMP/BME280 sensor<br>
