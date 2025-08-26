@@ -1,3 +1,4 @@
+<p align="justify">
 1. Introduction: ESP32-Apple-HomeKit-Smart-Home-DIY-Switch-Temperature-Humidity-Sensor
 🚀 In this tutorial, I’ll show you how to set up a DIY smart switch &amp; and temperature &amp; humidity sensor module for a typical bedroom — with 2 light switches and 1 temperature &amp; humidity sensor — all connected directly to Apple HomeKit. No hub required! 🔥
 
@@ -19,17 +20,15 @@ You don’t need to be an expert in coding or electronics. I explain everything 
 👍This project is perfect if you love DIY Smart Home, want a budget-friendly Apple HomeKit device, and prefer to keep everything private & under your control.
 
 2. Schematics:
-https://github.com/phamvanan88/ESP32-Apple-HomeKit-Smart-Home-DIY-Switch-Temperature-Humidity-Sensor/blob/main/2.%20IMG_WIRING%20DIAGRAM.png?raw=true
+<img width="865" height="870" alt="image" src="https://github.com/user-attachments/assets/8b9ebcf7-0ed7-4ccd-b72c-e762525205af" />
 
 3. Demo:
-<img width="842" height="673" alt="image" src="https://github.com/user-attachments/assets/759c20b5-7e42-4202-97c3-406c9ad317ad" />
+<img width="842" height="673" alt="image" src="https://github.com/user-attachments/assets/239fd733-9cd0-4a1a-89f8-86effe944a5d" />
+
 - Add a accessory Apple Homekit:
-  <img width="176" height="342" alt="image" src="https://github.com/user-attachments/assets/846579b1-d3d2-40c4-8546-4d8bed486d28" />
-  <img width="158" height="313" alt="image" src="https://github.com/user-attachments/assets/545bdc6a-5799-4832-a13b-78feb4fc1f46" />
-  <img width="154" height="325" alt="image" src="https://github.com/user-attachments/assets/58a2d48c-f402-4fd3-8b12-515a56c1b0b6" />
-  <img width="156" height="315" alt="image" src="https://github.com/user-attachments/assets/58bf4ef6-de21-4d2c-bfbf-97e1874247b6" />
 - 
-- 
+<img width="679" height="326" alt="image" src="https://github.com/user-attachments/assets/7e2f6afb-1d61-4c33-bb11-42beaa00e51a" />
+
 
 4. Code:
    - Please change GPIO follow your pins:
@@ -47,7 +46,7 @@ https://github.com/phamvanan88/ESP32-Apple-HomeKit-Smart-Home-DIY-Switch-Tempera
      const int SW_INTERVAL= 50;  // milliseconds, reading cycle of toggle switch
      const int DHT_INTERVAL = 5000;  // milliseconds, reading cycle of DHT22 sensor
 
-
+</p>
 💬 Questions? Leave a comment below!
 🔔 Don’t forget to LIKE 👍 and SUBSCRIBE for more DIY ESP32 + Apple HomeKit tutorials.
 #ESP32 #HomeKit #SmartHome #DIYHomeAutomation #AppleHomeKit #TemperatureSensor #HumiditySensor #HomeSpan #IoTProject #ArduinoHomeKit #DIYIoT #SmartSwitch #DIY #DIYSmartHome #ESP32Projects
