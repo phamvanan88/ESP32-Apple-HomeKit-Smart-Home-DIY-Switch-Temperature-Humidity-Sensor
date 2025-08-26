@@ -19,7 +19,7 @@ You don’t need to be an expert in coding or electronics. I explain everything 
 👍This project is perfect if you love DIY Smart Home, want a budget-friendly Apple HomeKit device, and prefer to keep everything private & under your control.
 
 2. Schematics:
-   <img width="671" height="643" alt="image" src="https://github.com/user-attachments/assets/af3ffadd-36da-455a-8a4d-15c6cabc11b5" />
+https://github.com/phamvanan88/ESP32-Apple-HomeKit-Smart-Home-DIY-Switch-Temperature-Humidity-Sensor/blob/main/2.%20IMG_WIRING%20DIAGRAM.png?raw=true
 
 3. Demo:
 <img width="842" height="673" alt="image" src="https://github.com/user-attachments/assets/759c20b5-7e42-4202-97c3-406c9ad317ad" />
