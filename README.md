@@ -20,8 +20,8 @@ You don’t need to be an expert in coding or electronics. I explain everything 
 👍This project is perfect if you love DIY Smart Home, want a budget-friendly Apple HomeKit device, and prefer to keep everything private & under your control.
 
 **2. Schematics** <br>
-<img src="https://github.com/user-attachments/assets/8b9ebcf7-0ed7-4ccd-b72c-e762525205af" width="70%"> <br>
-<img src="https://github.com/user-attachments/assets/6e1df6da-3073-4fa4-82e7-8ed8bbaf0151" width="70%"> <br>
+<img src="https://github.com/user-attachments/assets/8b9ebcf7-0ed7-4ccd-b72c-e762525205af" width="60%"> <br>
+<img src="https://github.com/user-attachments/assets/6e1df6da-3073-4fa4-82e7-8ed8bbaf0151" width="50%"> <br>
 📦 Hardware Used:<br>
 - ESP32 board (e.g. ESP32-S3, ESP32DEV, or similar)<br>
 - DHT22 or BMP/BME280 sensor<br>
@@ -31,9 +31,9 @@ You don’t need to be an expert in coding or electronics. I explain everything 
 - Breadboard, jumper wires<br>
 
 **3. Demo** <br>
-<img src="https://github.com/user-attachments/assets/239fd733-9cd0-4a1a-89f8-86effe944a5d" width="70%">
+<img src="https://github.com/user-attachments/assets/239fd733-9cd0-4a1a-89f8-86effe944a5d" width="60%">
 
-- Add a accessory Apple Homekit:
+- Add a accessory Apple Homekit:<br>
   <img width="679" height="326" alt="image" src="https://github.com/user-attachments/assets/7e2f6afb-1d61-4c33-bb11-42beaa00e51a" />
 
 **4. Code**
